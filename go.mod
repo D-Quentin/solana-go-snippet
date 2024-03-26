@@ -1,4 +1,4 @@
-module test
+module solana-poc
 
 go 1.22.1
 
